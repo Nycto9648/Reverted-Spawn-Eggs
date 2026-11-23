@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "min_format": [
+      55,
+      0
+    ],
+    "max_format": [
+      97,
+      1
+    ],
+    "description": "§c◆ Unreleased§r\n§7◆ Assembled by Nycto",
+    "pack_format": 55,
+    "supported_formats": {
+      "min_inclusive": 55,
+      "max_inclusive": 97
+    }
+  }
+}
